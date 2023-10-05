@@ -1,6 +1,6 @@
 ### from me import code
 ### # Welcome! 
-### # Here you will find useful scripts and projects in the daily life of a pentester...
+### # Here you will find useful scripts and projects in the daily life of a Linux SysAdmin and pentester...
 
 ### print (
 
