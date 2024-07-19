@@ -6,18 +6,15 @@
 
 """
 
-    I’m currently working on Linux Support...
-    
-    I am currently learning about automation...
-    
-    I try to collaborate on projects that improve the world every day!
-    
-    I look for help with my scripts that are open source and with the promotion of free and open source software...
-    
-    Ask me about anything! If I know, I'll answer. If I don't know, I'll learn and we'll talk again in the future! 
+    I'm currently working on Linux System Administration and Cybersecurity.
+
+    I enjoy collaborating on projects that aim to make the world a better place, and I'm always open to contributing scripts and promoting free and open source software.
+
+    If you need help with my scripts or want to discuss the promotion of free software, I'm here to help!
+
+    Ask me about anything! If I know the answer, I'll tell you. If I don't, I'll learn, and we'll talk again in the future! 😉
+
     ;)
-    
-    How to reach me: my social networks...
     
     "There's a saying. The devil's at his strongest when we're looking the other way, like a program running in the 
     background silently, while we're busy doing other sh*t"... (Mr. Robot)
