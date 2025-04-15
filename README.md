@@ -21,5 +21,6 @@ print (
 """
 )
 
-print("Feel free to check out my other projects on GitHub or contact me via email if you need assistance or want to collaborate!")
+print("Feel free to check out my other projects on GitHub or contact me via email if you need assistance
+or want to collaborate!")
 ```
