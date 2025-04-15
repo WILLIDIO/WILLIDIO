@@ -20,7 +20,4 @@ print (
     background silently, while we're busy doing other sh*t..." (Mr. Robot)
 """
 )
-
-print("Feel free to check out my other projects on GitHub or contact me via email if you need assistance
-or want to collaborate!")
 ```
